@@ -26,7 +26,7 @@ This repository contains a collection of graph algorithms implemented in Python 
 - Prim's Algorithm (Eager Implementation) - \(O(E log V)\)
 
 **Shortest Path in Edge-Weighted Digraph Algorithms:**
-- Dijkstra's Algorithm - \(O(E \log V)\)
+- Dijkstra's Algorithm - \(O(E log V)\)
 - Topological Sort (for shortest path in DAGs) - \(O(V + E)\)
 - Bellman-Ford Algorithm - \(O(EV)\)
 - Bellman-Ford Algorithm (Queue-Based) - Typically \(O(E + V)\), Worst Case \(O(EV)\)
