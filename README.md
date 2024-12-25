@@ -21,9 +21,9 @@ This repository contains a collection of graph algorithms implemented in Python 
 - Shortest Ancestral Path (SAP) - \(O(V + E)\)
 
 **Edge-Weighted Graph Minimum Spanning Tree (MST) Algorithms:**
-- Kruskal's Algorithm - \(O(E \log E)\)
-- Prim's Algorithm (Lazy Implementation) - \(O(E \log E)\)
-- Prim's Algorithm (Eager Implementation) - \(O(E \log V)\)
+- Kruskal's Algorithm - \(O(E log E)\)
+- Prim's Algorithm (Lazy Implementation) - \(O(E log E)\)
+- Prim's Algorithm (Eager Implementation) - \(O(E log V)\)
 
 **Shortest Path in Edge-Weighted Digraph Algorithms:**
 - Dijkstra's Algorithm - \(O(E \log V)\)
