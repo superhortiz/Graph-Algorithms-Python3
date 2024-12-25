@@ -9,7 +9,7 @@ This repository contains a collection of graph algorithms implemented in Python 
 - Connected Components - \(O(V + E)\)
 - Bipartite Graph Validation - \(O(V + E)\)
 - Cycle Detection - \(O(V + E)\)
-- Eulerian Cycle/Path - \(O(V + E^2)\)
+- Eulerian Cycle/Path - \(O(EV + E^2)\)
 - Hamiltonian Path (Backtracking) - Exponential Complexity
 
 **Directed Graph (Digraph) Algorithms:**
